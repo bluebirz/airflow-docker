@@ -19,6 +19,9 @@ echo -e "AIRFLOW_UID=$(id -u)" > .env
 
 ### start
 
+- Prepare your dependencies in `requirements.txt` and `constraints.txt` (if any)
+- up with the following command.
+
 ```bash
 docker-compose up
 ```
