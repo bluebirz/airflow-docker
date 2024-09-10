@@ -1,2 +1,4 @@
 __pycache__
 logs/*
+dags/covid*
+.DS_Store
